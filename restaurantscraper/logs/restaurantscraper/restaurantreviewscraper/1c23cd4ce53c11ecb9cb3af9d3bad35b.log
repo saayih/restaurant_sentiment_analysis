@@ -1,0 +1,7 @@
+2022-06-06 10:58:09 [scrapy.utils.log] INFO: Scrapy 2.6.1 started (bot: restaurantscraper)
+2022-06-06 10:58:09 [scrapy.utils.log] INFO: Versions: lxml 4.9.0.0, libxml2 2.9.14, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 22.4.0, Python 3.9.0 (default, Oct 29 2020, 10:12:08) - [Clang 11.0.3 (clang-1103.0.32.62)], pyOpenSSL 22.0.0 (OpenSSL 3.0.3 3 May 2022), cryptography 37.0.2, Platform macOS-10.16-x86_64-i386-64bit
+2022-06-06 10:58:09 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'restaurantscraper',
+ 'LOG_FILE': 'logs/restaurantscraper/restaurantreviewscraper/1c23cd4ce53c11ecb9cb3af9d3bad35b.log',
+ 'NEWSPIDER_MODULE': 'restaurantscraper.spiders',
+ 'SPIDER_MODULES': ['restaurantscraper.spiders']}
