@@ -25,5 +25,5 @@ Scrapy, Flask
 MacOS Terminal(Vim)
 
 
-Link to the Project Presentation: https://www.youtube.com/watch?v=JgqRyMSpNFY
-Link to the Project Demo: https://www.youtube.com/watch?v=kxQ9i1If2ak
+[Link](https://www.youtube.com/watch?v=JgqRyMSpNFY) to the Project Presentation.
+[Link](https://www.youtube.com/watch?v=kxQ9i1If2ak) to the Project Demo.
